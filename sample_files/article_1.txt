@@ -1,0 +1,5 @@
+We've been waiting impatiently for high-resolution 4K OLED displays to come to laptops, and that finally happened at CES 2019 with models from HP and Dell. Now we know one likely source for those, as Samsung has unveiled what it says is the first-ever 15.6-inch 4K OLED display. The screens will offer "HDR, excellent color reproduction and high outdoor visibility," said Samsung Display's marketing director Yoon Jae-nam.
+
+Each pixel has its own "light," so you get true blacks when they're turned off, and Samsung points out that the panels meet VESA's DisplayHDR True Black specification. OLED panels tend to have better color accuracy than LCD, too, and can easily handle HDR. The brightness levels peak out at 600 nits, enough to meet the demanding DisplayHDR 600 certification, and the display covers 100 percent of the DCI-P3 range with 34 million colors. It's also thinner, lighter and uses less power compared to an LCD, Samsung said.
+
+OLEDs aren't without their issues, however, as screen burn-in and overall lifespan can be problematic. Samsung will

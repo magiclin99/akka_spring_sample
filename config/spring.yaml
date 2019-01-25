@@ -1,0 +1,4 @@
+app:
+  default_scan_path: ./sample_files
+logging:
+  config: ./config/logback.xml
